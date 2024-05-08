@@ -57,12 +57,21 @@ body {
 }
 
 #main {
-    width: 480px;
-    height: 310px;
+    width: 620px;
+    height: 418px;
     padding: 20px;
 }
 
 .ttext {
     font-size: 18px;
     color:#E5E7EB;
+}
+
+button {
+    color: #F9FAF8;
+    background-color: #3882f6;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: #3882f6;
 }
