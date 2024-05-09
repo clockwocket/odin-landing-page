@@ -42,6 +42,7 @@ h2 {
     font-weight: bolder;
     color: #1F2937;
     text-align: center;
+
 }
 
 .logo {
@@ -94,11 +95,23 @@ button {
 .info {
     color:#1F2937;
     font-size: 18px;
+    margin: 0;
 }
 
 .ilustration {
-    height:120px;
-    width: 120px;
-    border: solid #3882f6 3px;
-    border-radius: 10px;
+    margin: 0;
+    height:180px;
+    width: 180px;
+    border: solid #3882f6 5px;
+    border-radius: 15px;
+}
+
+.ilusinfo {
+    max-width: 180px;  
+    margin: 30px; 
+}
+
+.information {
+    display: flex;
+    justify-content: center;
 }
