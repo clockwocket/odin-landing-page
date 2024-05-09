@@ -31,9 +31,17 @@ a {
 }
 
 h1 {
+    margin: 0;
     font-size: 48px;
     font-weight: extra-bold;
     color: #F9FAF8;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
 }
 
 .logo {
@@ -81,4 +89,16 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+}
+
+.info {
+    color:#1F2937;
+    font-size: 18px;
+}
+
+.ilustration {
+    height:120px;
+    width: 120px;
+    border: solid #3882f6 3px;
+    border-radius: 10px;
 }
