@@ -169,4 +169,12 @@ body {
     align-self: flex-end;
 }   
 
+.footer {
+    background-color: #1F2937 ;
+}
 
+.copyright {
+    color:#F9FAF8;
+    font-size: 18px;
+    text-align: center;
+}
