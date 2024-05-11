@@ -115,3 +115,24 @@ button {
     display: flex;
     justify-content: center;
 }
+
+.quotesect {
+    background-color: #E5E7EB;
+    padding: 100px 250px;
+}
+
+.quote {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    margin: 0;
+}
+
+.credit {
+    color: #1F2937;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+    text-align: right;
+}
