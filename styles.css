@@ -76,7 +76,7 @@ body {
     color:#E5E7EB;
 }
 
-button {
+.headerbutton {
     color: #F9FAF8;
     background-color: #3882f6;
     font-size: 18px;
@@ -118,7 +118,7 @@ button {
 
 .quotesect {
     background-color: #E5E7EB;
-    padding: 100px 250px;
+    padding: 100px 300px;
 }
 
 .quote {
@@ -136,3 +136,37 @@ button {
     margin: 0;
     text-align: right;
 }
+
+.call {
+    margin: 100px 250px;
+    background-color: #3882f6;
+    padding: 50px 25px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 15px;
+}
+
+.callheader {
+    color:#F9FAF8;
+    font-size: 24px;
+    font-weight:bold;
+    margin: 0;
+}
+
+.callsubtext {
+    color:#F9FAF8;
+    font-size: 18px;
+    margin: 0;
+}
+
+.action {
+    background-color: #3882f6;
+    color:#F9FAF8;
+    border: solid #F9FAF8 3px;
+    border-radius: 10px;
+    padding: 5px 15px;
+    font-size: 18px;
+    align-self: flex-end;
+}   
+
+
